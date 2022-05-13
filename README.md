@@ -20,4 +20,7 @@ Francisco Couttolenc Ortiz - A01754959
 ![image](https://user-images.githubusercontent.com/105402763/168401259-8b0026c4-a53c-4eb6-9400-f0311cf584fa.png)
 
 
+![image](https://user-images.githubusercontent.com/105402763/168401298-5dd09ad5-cbb6-4928-8d56-c1baae89e85e.png)
+
+
 //Se hicieron ajustes para cumplir con el PEP8
